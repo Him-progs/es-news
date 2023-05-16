@@ -1,0 +1,27 @@
+.author-name{
+    font-size: 12px;
+    text-align: right;
+    margin-top: 10px;
+}
+.article-desc{
+    font-size: 14px;
+}
+
+.article-title{
+font-size: 20px;
+}
+
+.article-image{
+    width: 100%;
+}
+
+.nav-cont{
+    justify-content: center !important;
+}
+
+.navbar{
+    position: sticky !important;
+    top:0;
+    margin-bottom: 20px;
+    z-index: 999;
+}
